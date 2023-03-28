@@ -1,4 +1,9 @@
-# Getting Started with Create React App and Redux
+# Slack 2.0 is a slack clone built with React, Redux, Firebase hooks, Google Auth, React hooks, styled components. This slack clone allows users to login with existing google account using firebase hooks. Users can login create channels, send messages.
+
+<img width="1587" alt="Screenshot 2023-03-28 at 12 01 50 PM" src="https://user-images.githubusercontent.com/66817698/228356607-9bb68323-9991-49d6-b92c-58f55c5081c9.png">
+<img width="1585" alt="Screenshot 2023-03-28 at 12 06 58 PM" src="https://user-images.githubusercontent.com/66817698/228356612-0461f261-df98-4c41-9f0f-d365799a5075.png">
+
+#Live Demo: https://slack-clone-871bd.web.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
